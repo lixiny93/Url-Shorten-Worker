@@ -8,9 +8,9 @@ custom_link:false,//Allow users to customize the short url.
 
 const html404 = `<!DOCTYPE html>
 <body>
-  <h1>404 Not Found.</h1>
-  <p>The url you visit is not found.</p>
-  <a href="https://github.com/xyTom/Url-Shorten-Worker/" target="_self">Fork me on GitHub</a>
+  <h1>404啦!</h1>
+  <p>这个URL被吞掉了!</p>
+  <a href="https://github.com/xyTom/Url-Shorten-Worker/" target="_self">在Github上Fork</a>
 </body>`
 
 let response_header={
